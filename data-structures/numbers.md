@@ -345,8 +345,3 @@ print(a / b)  # 2.5
 print(a // 2)  # 2
 print(a ** 3)  # 125
 ```
-
----
-
-**Author:** Leonardo Henrique  
-**File:** `numbers-java-vs-python.md`
