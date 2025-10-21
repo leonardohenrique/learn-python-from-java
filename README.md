@@ -10,7 +10,6 @@ A comprehensive guide for Java developers to learn Python through direct compari
 - [Built-in Data Types](fundamentals/built-in-data-types.md) - Primitive and reference types comparison
 - [Comments](fundamentals/comments.md) - Comment syntax in both languages
 - [Coding Style](fundamentals/coding-style.md) - Naming conventions and style guidelines
-- [Imports](fundamentals/Imports.md) - Import mechanisms and module management
 
 ### 🏗️ Data Structures
 - [Numbers](data-structures/numbers.md) - Numeric types and operations
@@ -43,6 +42,13 @@ A comprehensive guide for Java developers to learn Python through direct compari
 ### 📁 File Handling
 - [File Handling](file-handling/file-handling.md) - File reading and writing
 - [CSV Files](file-handling/reading-and-writing-csv-files.md) - Working with CSV files
+
+### 📦 Modules and Packages
+- [Imports](modules-packages/Imports.md) - Import mechanisms and module management
+- [Modules](modules-packages/modules.md) - Module concepts and organization
+- [Packages](modules-packages/packages.md) - Package structure and management
+- [Built-in Modules](modules-packages/built-in-modules.md) - Standard library modules comparison
+- [External Packages](modules-packages/external-packages.md) - External package management
 
 ### 📚 Standard Library Modules
 - [OS Module](standard-library-modules/os-module.md) - Operating system interface and file operations
