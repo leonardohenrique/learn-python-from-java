@@ -5,8 +5,8 @@ A comprehensive guide for Java developers to learn Python through direct compari
 ## 📚 Table of Contents
 
 ### 🔧 Fundamentals
-- [Operators](operators.md) - Operator comparison between Java and Python
-- [Comments](comments.md) - Comment syntax in both languages
+- [Operators](fundamentals/operators.md) - Operator comparison between Java and Python
+- [Comments](fundamentals/comments.md) - Comment syntax in both languages
 
 ### 🏗️ Data Structures
 - [Numbers](data-structures/numbers.md) - Numeric types and operations
