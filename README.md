@@ -44,6 +44,16 @@ A comprehensive guide for Java developers to learn Python through direct compari
 - [File Handling](file-handling/file-handling.md) - File reading and writing
 - [CSV Files](file-handling/reading-and-writing-csv-files.md) - Working with CSV files
 
+### 📚 Standard Library Modules
+- [OS Module](standard-library-modules/os-module.md) - Operating system interface and file operations
+- [Sys Module](standard-library-modules/sys-module.md) - System-specific parameters and functions
+- [DateTime Module](standard-library-modules/datetime-module.md) - Date and time handling
+- [JSON Module](standard-library-modules/json-module.md) - JSON parsing and serialization
+- [Math Module](standard-library-modules/math-module.md) - Mathematical operations and functions
+- [Random Module](standard-library-modules/random-module.md) - Random number generation
+- [Regular Expressions](standard-library-modules/re-module.md) - Pattern matching and text processing
+- [Collections Module](standard-library-modules/collections-module.md) - Advanced collection types
+
 ### 🚀 Spring Boot vs FastAPI
 - [Project Setup](springboot-vs-fastapi/project-setup.md) - Initial setup
 - [Project Structure](springboot-vs-fastapi/project-structure.md) - Project organization and structure
