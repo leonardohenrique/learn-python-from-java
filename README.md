@@ -61,6 +61,12 @@ A comprehensive guide for Java developers to learn Python through direct compari
 - [Regular Expressions](standard-library-modules/re-module.md) - Pattern matching and text processing
 - [Collections Module](standard-library-modules/collections-module.md) - Advanced collection types
 
+### ⚡ Concurrency & Async Programming
+- [Async/Await](concurrency-async/async-await.md) - Asynchronous programming patterns
+- [Threading](concurrency-async/threading.md) - Thread management and synchronization
+- [Multiprocessing](concurrency-async/multiprocessing.md) - Process-based parallelism
+- [Futures & Promises](concurrency-async/futures-promises.md) - Future and promise patterns
+
 ### 🚀 Spring Boot vs FastAPI
 - [Project Setup](springboot-vs-fastapi/project-setup.md) - Initial setup
 - [Project Structure](springboot-vs-fastapi/project-structure.md) - Project organization and structure
