@@ -38,6 +38,7 @@ A comprehensive guide for Java developers to learn Python through direct compari
 
 ### ⚠️ Error Handling
 - [Errors and Exceptions](errors/errors-and-exceptions.md) - Try/catch vs try/except
+- [Logging](errors/logging.md) - Logging frameworks and best practices
 
 ### 📁 File Handling
 - [File Handling](file-handling/file-handling.md) - File reading and writing
