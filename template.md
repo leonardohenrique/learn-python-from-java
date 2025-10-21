@@ -88,8 +88,3 @@
 # Python
 # Additional Python example
 ```
-
----
-
-**Author:** [Your Name]  
-**File:** `[filename].md`
