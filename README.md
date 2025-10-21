@@ -9,6 +9,7 @@ A comprehensive guide for Java developers to learn Python through direct compari
 - [Operators](fundamentals/operators.md) - Operator comparison between Java and Python
 - [Built-in Data Types](fundamentals/built-in-data-types.md) - Primitive and reference types comparison
 - [Comments](fundamentals/comments.md) - Comment syntax in both languages
+- [Coding Style](fundamentals/coding-style.md) - Naming conventions and style guidelines
 - [Imports](fundamentals/Imports.md) - Import mechanisms and module management
 
 ### 🏗️ Data Structures
