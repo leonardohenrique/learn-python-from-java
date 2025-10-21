@@ -42,6 +42,7 @@ A comprehensive guide for Java developers to learn Python through direct compari
 
 ### 🚀 Spring Boot vs FastAPI
 - [Project Setup](springboot-vs-fastapi/project-setup.md) - Initial setup
+- [Project Structure](springboot-vs-fastapi/project-structure.md) - Project organization and structure
 - [Routing and Endpoints](springboot-vs-fastapi/routing-endpoints.md) - Route mapping
 - [Database Integration](springboot-vs-fastapi/database-integration.md) - JPA vs SQLAlchemy
 - [Security and Authentication](springboot-vs-fastapi/security-authentication.md) - Spring Security vs FastAPI Security
